@@ -180,15 +180,15 @@ MonoBehaviour:
   Invalidated:
     m_PersistentCalls:
       m_Calls: []
-  isTesting: 0
+  isTesting: 1
   m_TargetGameObject:
     m_SceneObjectReference:
-      m_SceneGuid: 172e42cf1b10433448823526d95e436a
-      m_GameObjectGuid: d678e38e-0c74-4fbd-8666-29403e401171
+      m_SceneGuid: 
+      m_GameObjectGuid: 
       m_SerializedComponentType:
         m_TypeName: 
       m_ComponentIndex: 0
-      m_AssetObject: {fileID: 0}
+      m_AssetObject: {fileID: 102900000, guid: 7b503a7548fc57f40bd57e4b7b5cf268, type: 3}
       m_Prefab: {fileID: 0}
     m_FutureObjectReference: {fileID: 0}
   m_RequiredComponents:
